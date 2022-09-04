@@ -1,2 +1,2 @@
-# beats-tonics
+# beatsTonics
 Contains BeatsTonics Releases
